@@ -1,0 +1,2 @@
+# javaCodePractice
+这个仓库主要记录在B站学习黑马程序员的JavaAI课程代码与笔记
